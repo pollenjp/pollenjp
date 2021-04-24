@@ -1,3 +1,24 @@
+
+<!--
+Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95ded736d24982c9fcd21b3f/readme.md>
+-->
+<p align="center">
+  <!--
+  <a href="https://github.com/pollenjp/pollenjp/actions">
+    <img alt="Tests Passing" src="https://github.com/pollenjp/pollenjp/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://codecov.io/gh/pollenjp/pollenjp">
+    <img src="https://codecov.io/gh/pollenjp/pollenjp/branch/master/graph/badge.svg" />
+  </a>
+  -->
+  <a href="https://github.com/pollenjp/pollenjp/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/pollenjp/pollenjp?color=0088ff" />
+  </a>
+  <a href="https://github.com/pollenjp/pollenjp/pulls">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pollenjp/pollenjp?color=0088ff" />
+  </a>
+</p>
+
 ### Hi there 👋
 
 <!--

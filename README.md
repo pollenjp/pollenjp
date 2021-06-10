@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 -->
 
 ![pollenjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollenjp&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&layout=compact)

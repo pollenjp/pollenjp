@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![pollenjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollenjp&show_icons=true&theme=tokyonight)
+[![pollenjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollenjp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 My Favorite Language
 
@@ -44,4 +44,6 @@ My Favorite Language
 2. C++
 3. Golang
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=pollenjp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)

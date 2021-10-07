@@ -21,6 +21,27 @@ Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95
 
 ### Hi there 👋
 
+<p align="center">
+  <a href="http://qiita.com/pollenjp">
+    <img
+      alt="My Qiita posts"
+      src="https://qiita-badge.apiapi.app/s/pollenjp/posts.svg"
+    />
+  </a>
+  <a href="http://qiita.com/pollenjp">
+    <img
+      alt="My Qiita contributions"
+      src="https://qiita-badge.apiapi.app/s/pollenjp/contributions.svg"
+    />
+  </a>
+  <a href="http://qiita.com/pollenjp">
+    <img
+      alt="My Qiita followers"
+      src="https://qiita-badge.apiapi.app/s/pollenjp/followers.svg"
+    />
+  </a>
+</p>
+
 <!--
 **pollenjp/pollenjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

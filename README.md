@@ -67,6 +67,9 @@ My Favorite Language
 2. C++
 3. Golang
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pollenjp&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+- Most Used Language
+  - hide `Jupyter Notebook` and `C#`
+    - `Jupyter Notebook` : 無駄に行数が嵩むため.
+    - `C#` : Unity の 3rd party package の占有が大きいため.
+  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&hide=jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=pollenjp&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)

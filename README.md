@@ -22,14 +22,29 @@ Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95
 ### Hi there 👋
 
 <p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img
+      alt="github-profile-views-counter"
+      src="https://komarev.com/ghpvc/?username=pollenjp&color=dc143c"
+    />
+  </a>
+  <a href="https://github.com/jwenjian/visitor-badge">
+    <img
+      alt="github-profile-views-counter"
+      src="https://visitor-badge.glitch.me/badge?page_id=pollenjp.visitor-badge"
+    />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/pollenjp">
     <img
       alt="GitHub followers"
-      src="https://img.shields.io/github/followers/pollenjp?style=plastic&logo=github"
+      src="https://img.shields.io/github/followers/pollenjp?style=social&logo=github"
     />
     <img
       alt="GitHub User's stars"
-      src="https://img.shields.io/github/stars/pollenjp?style=plastic&logo=github"
+      src="https://img.shields.io/github/stars/pollenjp?style=social&logo=github"
     />
   </a>
 </p>
@@ -38,7 +53,7 @@ Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95
   <a href="https://twitter.com/polleninjp">
     <img
       alt="Twitter Follow"
-      src="https://img.shields.io/twitter/follow/polleninjp?style=plastic&logo=twitter"
+      src="https://img.shields.io/twitter/follow/polleninjp?style=social&logo=twitter"
     />
   </a>
 </p>

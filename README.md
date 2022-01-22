@@ -105,13 +105,11 @@ Here are some ideas to get you started:
   1. C++
   1. Golang
 - Most Used Language (github-readme-stats)
-  - hide version
-    - hide `Jupyter Notebook` and `C#`
-      - `Jupyter Notebook` : 無駄に行数が嵩むため.
-      - `C#` : Unity の 3rd party package の占有が大きいため.
-    - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&theme=tokyonight&hide=jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats)
-  - Not Hide version
-    - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  - `Jupyter Notebook` : 無駄に行数が嵩んでいる.
+  - `C#` : Unity の 3rd party package 等の占有が大きい.
+  - | Hide `Jupyter Notebook` and `C#` | All |
+    |:--|:--|
+    | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&theme=tokyonight&hide=jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 - GitHub Profile Trophy (github-profile-trophy)
   - [![trophy](https://github-profile-trophy.vercel.app/?username=pollenjp&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 - github-readme-streak-stats

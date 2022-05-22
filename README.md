@@ -1,3 +1,4 @@
+# pollenjp
 
 <!--
 Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95ded736d24982c9fcd21b3f/readme.md>
@@ -19,7 +20,7 @@ Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95
   </a>
 </p>
 
-### Hi there 👋
+**Hi there** 👋
 
 <p align="center">
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
@@ -102,8 +103,9 @@ Here are some ideas to get you started:
   - [![sumamary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pollenjp&theme=monokai&.png)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 - My Favorite Language
   1. Python
+  1. Rust (Learning)
+  1. Golang (Learning)
   1. C++
-  1. Golang
 - Most Used Language (github-readme-stats)
   - `Jupyter Notebook` : 無駄に行数が嵩んでいる.
   - `C#` : Unity の 3rd party package 等の占有が大きい.

@@ -77,8 +77,11 @@ Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95
 </p>
 
 <p align="center">
-  <a href="https://atcoder.jp/users/pollen" target="_blank" title="pollen">
-    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpollen" />
+  <a href="https://atcoder.jp/users/pollenjp" target="_blank" title="pollenjp">
+    <img
+      alt="pollenjp atcoder badge"
+      src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fpollenjp"
+    />
   </a>
 </p>
 

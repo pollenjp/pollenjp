@@ -104,10 +104,10 @@ Here are some ideas to get you started:
   - [![pollenjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollenjp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 - GitHub Summary Cards (github-profile-summary-cards)
   - [![sumamary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pollenjp&theme=monokai&.png)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-- My Favorite Language
+- Using...
+  1. Rust
+  1. Golang
   1. Python
-  1. Rust (Learning)
-  1. Golang (Learning)
   1. C++
 - Most Used Language (github-readme-stats)
   - `Jupyter Notebook` : 無駄に行数が嵩んでいる.

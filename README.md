@@ -29,12 +29,6 @@ Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95
       src="https://komarev.com/ghpvc/?username=pollenjp&color=dc143c"
     />
   </a>
-  <a href="https://github.com/jwenjian/visitor-badge">
-    <img
-      alt="github-profile-views-counter"
-      src="https://visitor-badge.glitch.me/badge?page_id=pollenjp.visitor-badge"
-    />
-  </a>
 </p>
 
 <p align="center">

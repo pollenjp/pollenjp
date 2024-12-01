@@ -3,22 +3,6 @@
 <!--
 Ref: <https://github.com/anuraghazra/github-readme-stats/blob/f3c39506b2138a2b95ded736d24982c9fcd21b3f/readme.md>
 -->
-<p align="center">
-  <!--
-  <a href="https://github.com/pollenjp/pollenjp/actions">
-    <img alt="Tests Passing" src="https://github.com/pollenjp/pollenjp/workflows/Test/badge.svg" />
-  </a>
-  <a href="https://codecov.io/gh/pollenjp/pollenjp">
-    <img src="https://codecov.io/gh/pollenjp/pollenjp/branch/master/graph/badge.svg" />
-  </a>
-  -->
-  <a href="https://github.com/pollenjp/pollenjp/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/pollenjp/pollenjp?color=0088ff" />
-  </a>
-  <a href="https://github.com/pollenjp/pollenjp/pulls">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/pollenjp/pollenjp?color=0088ff" />
-  </a>
-</p>
 
 **Hi there** 👋
 
@@ -94,6 +78,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- My Contribution
+  - [External OSS Contribution (PR)](https://github.com/pulls?q=involves%3Apollenjp+-user%3Apollenjp+author%3Apollenjp+-org%3Apollenjp-org+-org%3Aut-virtual+is%3Apublic+is%3Amerged)
+  -  https://github.com/pulls?q=involves%3Apollenjp+user%3Apollenjp+org%3AUT-virtual+author%3Apollenjp+is%3Apublic+is%3Amerged+-repo%3Apollenjp%2Fsandbox-sandbox+-repo%3Apollenjp%2Fsandbox-rust-slack-api+-repo%3Apollenjp%2Fsandbox-github-actions+-repo%3Apollenjp%2Fsandbox-go-import-local-package+-repo%3Apollenjp%2Fsandbox-http-server-go+-repo%3Apollenjp%2Fsandbox-optuna+-repo%3Apollenjp%2Fsandbox-ekf+-repo%3Apollenjp%2Fsandbox-fade-audio-js+-repo%3Apollenjp%2Fsandbox-go+-repo%3Apollenjp%2Fsandbox-openai-whisper+-repo%3Apollenjp%2Fsandbox-github-pages+-repo%3Apollenjp%2Fsandbox-django-group-join-request+-repo%3Apollenjp%2Fsandbox-opengl+-repo%3Apollenjp%2FRoadDamageDetector+-repo%3Apollenjp%2Fsetup-uv+-repo%3Apollenjp%2Fstructlog+-repo%3Apollenjp%2Fpycord+-repo%3Apollenjp%2Fsuper-linter+-repo%3Apollenjp%2Fpixel2mesh-pytorch-noahcao+-repo%3Apollenjp%2Ftoybox-ja+-repo%3Apollenjp%2Fprivate-isu-archived+-repo%3Apollenjp%2Fminippy+-repo%3Apollenjp%2Fvagrant-glusterfs+-repo%3Apollenjp%2Fvagrant-kubernetes+-repo%3Apollenjp%2Fkmc-2022-web+-repo%3Apollenjp%2Fgraph-neural-networks.github.io+-repo%3Apollenjp%2Fklab-gameserver-forked+-repo%3Apollenjp%2FDepth-Map-Visualizer+-repo%3Apollenjp%2Fsdk-api+-repo%3Apollenjp%2Fpytorch-lightning+-repo%3Apollenjp%2FDeepLearningMugenKnock+-repo%3Apollenjp%2FTwitter-API-v2-sample-code+-repo%3Apollenjp%2Fhydra+-repo%3Apollenjp%2Fgo-conference-2021-spring-office-hour+-repo%3Apollenjp%2Fmikanos-net+-repo%3Apollenjp%2FPixel2Mesh+-repo%3Apollenjp%2FUE4ShaderPluginDemo+-repo%3Apollenjp%2Fpytorch-mask-rcnn+-repo%3Apollenjp%2FPixel2Mesh-Pytorch-Tong-ZHAO+-repo%3Apollenjp%2F__fork__PyTorch-YOLOv3+-repo%3Apollenjp%2F__fork__deep_sort_yolov3+-repo%3Apollenjp%2F__fork__sort+-repo%3Apollenjp%2Fpytorch-yolo-v3
 - GitHub Stats (github-readme-stats)
   - [![pollenjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollenjp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 - GitHub Summary Cards (github-profile-summary-cards)

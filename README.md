@@ -91,9 +91,9 @@ Here are some ideas to get you started:
   1. Python
   1. C++
 - Most Used Language (github-readme-stats)
-  - `Jupyter Notebook` : 無駄に行数が嵩んでいる.
-  - `C#` : Unity の 3rd party package 等の占有が大きい.
-  - `UEC++` : Unreal Engine Project is managed at Azure Repos because of Free Git LFS.
+  - `Jupyter Notebook` : Too many redundant lines
+  - `C#` : Unity projects including 3rd party packages
+  - `UEC++` : Unreal Engine Projects are managed at Azure Repos because of Free Git LFS.
   - | Hide `Jupyter Notebook` and `C#` | All |
     |:--|:--|
     | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&theme=tokyonight&hide=jupyter%20notebook,c%23)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pollenjp&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |

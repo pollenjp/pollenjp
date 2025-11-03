@@ -81,7 +81,9 @@ Here are some ideas to get you started:
 [![sumamary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pollenjp&theme=monokai&.png)](https://github.com/vn7n24fzkq/github-profile-summary-cards
 )[![pollenjp's GitHub stats](https://github-readme-stats.vercel.app/api?username=pollenjp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pollenjp\&repo=cdk-ansible\&show_owner=true
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=external-secrets\&repo=external-secrets\&show_owner=true
+)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=astral-sh\&repo=setup-uv\&show_owner=true
+)![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pollenjp\&repo=cdk-ansible\&show_owner=true
 )![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pollenjp\&repo=infra-k8s\&show_owner=true
 )![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pollenjp\&repo=myHariboteOS\&show_owner=true
 )![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pollenjp\&repo=setup-shellcheck\&show_owner=true
